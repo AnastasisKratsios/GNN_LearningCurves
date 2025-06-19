@@ -1,6 +1,6 @@
 # Understanding Our Generalization Bound
 
-This Jupyter notebook serves as a **validation tool** for the theoretical generalization bounds derived in our paper. It numerically evaluates and visualizes the behavior of the derived bounds under different conditions, allowing for a better understanding of their dependencies and scaling properties.
+This Jupyter notebook serves as a **validation tool** for the theoretical generalization bounds derived in our paper. It numerically evaluates and visualizes the behaviour of the derived bounds under different conditions, allowing for a better understanding of their dependencies and scaling properties.
 
 ## 📘 Purpose
 
